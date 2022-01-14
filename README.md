@@ -1,0 +1,1 @@
+# Logica_de_Programa-o_Essencial
