@@ -10,17 +10,19 @@ Então, a **lógica de programação** é um maneira específica de raciocinar, 
 
 *"Programar é resolver um problema!"*
 
-**Exercícios:**
+### Índice
 
-1 - Calcular a média aritmética de 4 notas de um aluno, sabendo que as notas são as seguintes: 5, 7, 10 e 3.
+* Algoritmos
+* Variáveis
+* Portugol
 
 <hr style="border-top: 1px solid red;">
 
-## Algoritmo e Pseudocódigo
+## Algoritmo
 
-**Algoritmo** é uma sequencia finita de passos para resolver um problema. Além da programação os algoritmos também estão presentes em nosso dia a dia.
+**Algoritmo**, de uma forma geral podemos dizer que é uma sequencia finita de passos para resolver um problema. A gente pode até não perceber mas eles estão presentes em nosso dia a dia.
 
-**Exemplos de algoritmo simples:**
+**Exemplo de algoritmo simples:**
 ```
 algoritmo "Tomar café"
 inicio 
@@ -33,12 +35,5 @@ comer o pão
 beber o café 
 fimalgoritmo
 ```
+Mas para programar, desenvolvemos **Algoritmos Computacionais** que são passos a serem seguindos por um módulo processador e seus respectivos usuários que, quando executados na ordem correta, conseguem realizar determinada tarefa.
 
-**Pseudocódigo** é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples sem necessidade de conhecer a sintaxe de nenhuma linguagem de programação. 
-
-**Exercícios:**
-
-1 - Faça um algoritmo do seu dia
-
-2 - Atividades gratuitas que ensina programação para iniciantes:<br>
-https://studio.code.org/courses
