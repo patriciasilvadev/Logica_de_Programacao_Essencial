@@ -2,7 +2,7 @@
 
 
 
-## Lógica de programação
+# Lógica de programação
 
 A palavra **lógica** está relacionada com uma maneira específica de raciocinar, que visa a determinação do que é verdadeiro ou não.
 
@@ -12,13 +12,15 @@ Então, a **lógica de programação** é um maneira específica de raciocinar, 
 
 ### Índice
 
-* Algoritmos
-* Variáveis
-* Portugol
+* [1 - Algoritmos](#1---algoritmos) 
+* [2 - Variáveis](#1---variáveis)
+* [3 - Portugol](#3---portugol)
 
-<hr style="border-top: 1px solid red;">
+
 
 ![Lógica de Programação Essencial.](img/algoritmo.png)
+
+## 1 - Algoritmos
 
 **Algoritmo**, de uma forma geral podemos dizer que é uma sequencia finita de passos para resolver um problema. A gente pode até não perceber mas eles estão presentes em nosso dia a dia.
 
