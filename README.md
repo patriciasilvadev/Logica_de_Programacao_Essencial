@@ -18,7 +18,7 @@ Então, a **lógica de programação** é um maneira específica de raciocinar, 
 
 <hr style="border-top: 1px solid red;">
 
-## Algoritmo
+![Lógica de Programação Essencial.](img/algoritmo.png)
 
 **Algoritmo**, de uma forma geral podemos dizer que é uma sequencia finita de passos para resolver um problema. A gente pode até não perceber mas eles estão presentes em nosso dia a dia.
 
