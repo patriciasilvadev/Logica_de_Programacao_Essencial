@@ -22,7 +22,7 @@ Então, a **lógica de programação** é um maneira específica de raciocinar, 
 
 ## 1 - Algoritmos
 
-**Algoritmo**, de uma forma geral podemos dizer que é uma sequencia finita de passos para resolver um problema. A gente pode até não perceber mas eles estão presentes em nosso dia a dia.
+**Algoritmo**, de uma forma geral podemos dizer que é uma sequencia finita de passos para resolver um problema. A gente pode até não perceber mas eles estão presentes em nosso dia a dia, como tomar café ou atravessar a rua, uma receita de bolo ou manual de equipamentos.
 
 **Exemplo de algoritmo simples:**
 ```
@@ -39,3 +39,25 @@ fimalgoritmo
 ```
 Mas para programar, desenvolvemos **Algoritmos Computacionais** que são passos a serem seguindos por um módulo processador e seus respectivos usuários que, quando executados na ordem correta, conseguem realizar determinada tarefa.
 
+Para a contrução de algoritmos computacionais podemos seguir os seguintes passos:
+* compreenção do problema
+* definição dados de entrada e saída
+* definir processamento
+* utilizar um método de construção
+* teste e diagnóstico
+
+**Exemplo de algoritmo computacional em Javascript:**
+```
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>  
+  <meta charset="UTF-8">
+  <title>Exemplo de "Olá, Mundo!" em Javascript</title>
+  <script>
+   alert ('Olá, Mundo!');
+  </script>
+</head>
+<body>
+</body>
+</html>
+```
