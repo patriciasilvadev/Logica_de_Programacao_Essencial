@@ -61,3 +61,7 @@ Para a contrução de algoritmos computacionais podemos seguir os seguintes pass
 </body>
 </html>
 ```
+
+### Fica a Dica:
+No site abaixo você pode treinar sua lógica e desenvolver algotimos em jogos!<br>
+https://code.org/hourofcode/overview
