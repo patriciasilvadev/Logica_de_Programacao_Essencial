@@ -12,15 +12,19 @@ Então, a **lógica de programação** é um maneira específica de raciocinar, 
 
 ### Índice
 
-* [1 - Algoritmos](#1---algoritmos) 
-* [2 - Variáveis](#1---variáveis)
+* <a href="#algoritmos">1 - Algoritmos</a>
+* <a href="#variaveis">2 - Variáveis</a>
 * [3 - Portugol](#3---portugol)
 
 
 
-![Lógica de Programação Essencial.](img/algoritmo.png)
 
-## 1 - Algoritmos
+
+
+
+
+
+<img src="img/algoritmo.png" alt="Algoritmos" id="algoritmos">
 
 **Algoritmo**, de uma forma geral podemos dizer que é uma sequencia finita de passos para resolver um problema. A gente pode até não perceber mas eles estão presentes em nosso dia a dia, como tomar café ou atravessar a rua, uma receita de bolo ou manual de equipamentos.
 
@@ -65,3 +69,39 @@ Para a contrução de algoritmos computacionais podemos seguir os seguintes pass
 ### Fica a Dica:
 No site abaixo você pode treinar sua lógica e desenvolver algotimos em jogos!<br>
 https://code.org/hourofcode/overview
+
+
+<img src="img/variaveis.png" alt="Variáveis" id="variaveis">
+
+Uma variável é um espaço na memória do computador destinado ao armazenamento de dados que é alterado durante a execução do algoritmo.
+
+## Identificadores, renomeando as variáveis
+
+1. deve começar com uma letra
+2. os próximos podem ser letras ou números 
+3. não pode utilizar nenhum símbolo. Exceto _
+4. não pode conter espaços em branco
+5. não pode conter letras com acento
+6. não pode ser uma palavra reservada
+
+## Tipos Primitivos
+
+* **Inteiro:** 1, 3, -5, 198, 0
+* **Real:** 0.5, 5.0, 9.8, -77.3, 3.1415
+* **Caractere:** "Patrícia" "algoritmo" "123"
+* **Lógico:** verdadeiro falso
+
+## Declaração de variáveis 
+```
+Var
+Identificador: tipo
+```
+**Exemplo:** <br>
+idade: inteiro
+
+## Atribuições em variáveis
+```
+Identificador <- valor
+```
+**Exemplo:** <br>
+idade <- 24
